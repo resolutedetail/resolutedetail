@@ -5,9 +5,12 @@
 -
 -
 -  Why "resolutedetail" for a name?
--  In deciding this name - this branding - I wanted something that both represents my profession and values.  My name comes from the root Wilhem, composed of the wil (will or desire) and helm (helmet or protection).  --A boring series of search strings later-- 
+-  In deciding this name - this branding - I wanted something that both represents my profession and values.  My name comes from the root Wilhem, composed of the wil (will or desire) and helm (helmet or protection).  
 -  
--  I noticed the phrase "resolute protector" in relation to my name and instantly thought of a loyal soldier in the defense against cyber wrong doers!"  So, I kept 'resolute' and appended the word 'detail'.  Why Detail?  Paying attention to detail is an skill and action that demonstrates so many values.  It shows ownership and care in what you do.  Just like the Uber driver who provides bottled water, charging cables, gum, and other comforts.  Just like the script writer that included detailed comments to ensure everyone knows what it does and how it does it.  It demonstrates a high level of situational awareness.  It saves time.  
+-  ...A boring series of search strings later... I noticed the phrase "resolute protector" in relation to my name and instantly thought of a loyal soldier in the defense against cyber wrong doers!"  So, I kept 'resolute' and appended the word 'detail'.  
+-  
+-  Why Detail?  
+-  Paying attention to detail is an skill and action that demonstrates so many values.  It shows ownership and care in what you do.  Just like the Uber driver who provides bottled water, charging cables, gum, and other comforts.  Just like the script writer that includes detailed comments to ensure everyone knows what it does and how it does it.  It demonstrates a high level of situational awareness.  It saves time.  
 -  
 -                               resolutedetail - a determined and unwavering approach to a craft.     
 <!---
