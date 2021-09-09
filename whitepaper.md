@@ -19,7 +19,7 @@ This white paper could not have succeeded without its contributors who provided 
 To understand why cyber security even exists, it may be helpful to understand the nature of the internet and how benefiting from its many advantages cannot exist without accepting all the disadvantages.  In other words, the internet “good” cannot exist without “evil” or the internet “light” cannot exist without “darkness.”  Kind of like the philosophical debates posing that darkness cannot exist without light because darkness depends on the absence of light.  Also, my theory that good cannot exist without evil because good needs something to measure against.  Good is relative to morals and values what we perceive to be less than good or not good.  
 The internet was not originally designed with security in mind.  Before it was even called the internet it was a small network connecting university and government mainframe computers together.  Over time the network expanded to include more universities.  Private networks not connected to this early internet were created by some business to improve the sharing of data internally.  With the increased usage of the internet many wanted to connect these isolated island networks to the greater global internet.  Then the personal computer was invented making it possible to access the internet from your home.  Applications like email and websites were developed increasing communication and the sharing of ideas which soon led to its business advantages. 
 
------ UNORGANIZED IDEAS - SMALL BUSINESS SECURITY -----
+----- Small Business Security - Unorganized Ideas -----
 
 The legal consequences and financial impact of a hack or stolen data is more difficult to recover from and small business is typically low hanging fruit caused by limited resources available for security.
 
@@ -40,9 +40,16 @@ Zero Trust Network Access
 
 API Security Features?
 
-Port Mirroring in the cloud?
+Security Monitoring in the Cloud...
 
------ INDIVIDUAL SECURITY -----
+https://docs.microsoft.com/en-us/azure/azure-vmware/configure-port-mirroring-azure-vmware-solution
+https://docs.securityonion.net/en/2.3/cloud-azure.html
+
+https://docs.aws.amazon.com/vpc/latest/mirroring/traffic-mirroring-how-it-works.html
+https://docs.securityonion.net/en/2.3/cloud-ami.html
+
+
+----- Your Individual Security -----
 
 Educating and promoting security best practices for individuals within your company is critical to the success of any organization’s security program.  People are the most important asset of any organization and pose the biggest cybersecurity risk.  Humans are not perfect and make mistakes and therefore can be tricked by other humans.  
 Methods
