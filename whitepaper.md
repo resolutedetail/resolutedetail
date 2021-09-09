@@ -31,7 +31,15 @@ Malicious or bad actors are constantly scanning the internet to find devices exp
 
 ----- Cloud Delivered Security -----
 
+DNS Secure
+Secure Web Gateway/Proxy
+Firewall FAAS
+Cloud Access Security Broker
+Zero Trust Network Access
 
+API Security Features?
+
+Port Mirroring in the cloud?
 
 ----- INDIVIDUAL SECURITY -----
 
