@@ -1,5 +1,5 @@
 - 👋 Hi, this is Will @resolutedetail
-- 👀 I'm interested in SASE-cloud delivered security and understanding the ongoing convergence of network and security.  I really enjoy threat hunting... and all the engineering and planning that goes with it. 
+- 👀 I'm interested in SASE-cloud delivered security and understanding the ongoing convergence of network and security.  I really enjoy threat hunting and all the planning and building that goes with it. 
 - 🌱 I’m currently studying network traffic analysis, PowerShell for IRH, Threat Emulation methods, and problems involving cloud network traps and monitoring.
 - 🌱 Writing projects "Secure our Small Businesses and Why We Should All Care" and "Embrace the Grief"
 - 💞️ I’m looking to collaborate on network monitoring and threat hunting tools and techniques for both cloud and on-prem environments.
