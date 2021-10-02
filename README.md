@@ -1,7 +1,7 @@
 - 👋 Hi, this is Will @resolutedetail
-- 👀 I'm interested in SASE-cloud delivered security and understanding the ongoing convergence of network and security.  I really enjoy threat hunting and all the planning and building that goes with it. 
-- 🌱 I’m currently studying network traffic analysis, PowerShell for IRH, Threat Emulation methods, and problems involving cloud network traps and monitoring.
-- 🌱 Writing projects "Secure our Small Businesses and Why We Should All Care" and "Embrace the Grief"
+- 👀 I'm interested in theat hunting and emulating APT adversaries for the purpose of improving defenses.  My next effort is SASE-cloud delivered security and understanding the ongoing convergence of network and security.
+- 🌱 I’m currently studying network traffic analysis, PowerShell Incident Response techniques, Threat Emulation methods, and problems involving cloud network traps and monitoring.
+- 🌱 My whitepaper Writing projects include how to "Secure our Small Businesses and Why We Should All Care" and how life's grief can make you a great cyber leader - my perspective.
 - 💞️ I’m looking to collaborate on network monitoring and threat hunting tools and techniques for both cloud and on-prem environments.
 -
 -
@@ -13,7 +13,7 @@
 -  Why Detail?  
 -  Paying attention to detail is an skill and action that demonstrates so many values.  It shows ownership and care in what you do.  Just like the Uber driver who provides bottled water, charging cables, gum, and other comforts.  Just like the script writer that includes detailed comments to ensure everyone knows what it does and how it does it.  It demonstrates a high level of situational awareness.  It saves time.  
 -  
--                               resolutedetail - a determined and unwavering approach to a craft.     
+-                               resolutedetail - a determined and unwavering approach to the cybersecurity craft.     
 <!---
 resolutedetail/resolutedetail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
